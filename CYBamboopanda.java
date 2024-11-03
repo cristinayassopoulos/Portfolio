@@ -1,6 +1,7 @@
 // A menu for "Bamboo Panda Game"
-
-// This was a part of a larger project of mine from awhile ago. 
+// This was a part of a larger project of mine from awhile ago. When I did 
+// this and my other projects they were on a diffrent computer however since 
+// having the current the computer I seem to have lost files.  
 
 public class CYBamboopanda {
    public static void main(String[] args) { 
