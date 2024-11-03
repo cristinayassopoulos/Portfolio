@@ -1,12 +1,6 @@
-// Name: Cristina Yassopoulos
-
-// Date: 08/22/19
-
-// Purpose:  Print a menu for "Bamboo Panda Game"
+// A menu for "Bamboo Panda Game"
 
 // This was a part of a larger project of mine from awhile ago. 
-// However that was orginally in Python.
-// I took a smaller and easier section of it and put it Java.
 
 public class CYBamboopanda {
    public static void main(String[] args) { 
