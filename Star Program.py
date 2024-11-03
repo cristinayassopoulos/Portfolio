@@ -1,3 +1,5 @@
+#This is imcomplete right now this will be a placeholder
+#till I can figure what numbers I used in the orginal code that I have seemed to have lost.
 import turtle
 
 def draw_triangle(color):
