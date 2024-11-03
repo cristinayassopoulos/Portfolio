@@ -1,16 +1,13 @@
-# Define the number of triangles to draw
+# Binary tree project I did awhile ago. 
 num_triangles_to_draw = 5
 
-# Use a loop to generate and draw multiple triangles
 for _ in range(num_triangles_to_draw):
     checkTriangle()
-#Here’s the complete code with all the fixes and optimizations:
 
 import random
 import math
 import turtle
 
-# Set up Turtle
 window = turtle.Screen()
 writer = turtle.Turtle()
 writer.pensize(3)
@@ -56,10 +53,8 @@ def checkTriangle():
     else:
         print("Invalid side lengths - cannot form a triangle")
 
-# Define the number of triangles to draw
 num_triangles_to_draw = 5
 
-# Use a loop to generate and draw multiple triangles
 for _ in range(num_triangles_to_draw):
     checkTriangle()
 
